@@ -1,0 +1,17 @@
+**/.ipynb_checkpoints/
+**/models/
+**/aclImdb/
+**/logs/
+.idea/
+*.csv
+*.DS_Store
+
+# AzureML notebooks
+*.amlignore
+*.amltmp
+*.amltemp
+**/.ipynb_aml_checkpoints/
+**/__pycache__
+**/runs/
+
+api.yaml
